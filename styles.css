@@ -6,7 +6,7 @@
 
 }
 body{
-    background: #222;
+    background: #134;
 }
 .card{
     width: 90%;
@@ -37,7 +37,7 @@ body{
     font-size: 18px;
 }
 .search button{
-    border: 0;
+    border: 1;
     outline: 0;
     background: #ebfffc;
     border-radius: 50%;
